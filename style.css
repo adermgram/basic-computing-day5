@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif; /* Set a clean font */
+    background-color: #F4E0AF; /* Light gray background */
+    margin: 20px; /* Add some spacing around the content */
+    color: #333; /* Set text color to dark gray */
+}
+/* Header Styling */
+h1 {
+    color: #ff6f61; /* Make the main header stand out */
+    text-align: center; /* Center-align the header */
+    text-transform: uppercase; /* Make the text uppercase */
+    border-bottom: 2px solid #ff6f61;
+    padding-bottom: 10px; /* Add space below the header */
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 16px; /* Set paragraph font size */
+}
+
+/* Hobbies List Styling */
+ul {
+    list-style-type: square; /* Change bullet style */
+    margin: 20px; /* Add spacing around the list */
+}
+
+li {
+    color: green; /* Add space between list items */
+}
+
+/* Favorite Website Link Styling */
+a {
+    color: #007BFF; /* Make links blue */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Image Styling */
+img {
+    display: block; /* Center the image */
+    margin: 20px auto ; /* Add margin and center it horizontally */
+    border-radius: 50%; /* Make the image circular */
+    border: 4px solid #ff6f61; /* Add a border */
+    width: 150px; /* Resize the image */
+    height: 150px; /* Maintain circular shape */
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
